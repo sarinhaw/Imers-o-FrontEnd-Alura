@@ -17,7 +17,7 @@ json-server --watch api-artists/artists.json --port 3000
 <div align="center">
   <h3>Instrutores</h3>
   <div align="center">
- 
+
 | [<img src="https://media.licdn.com/dms/image/C4D03AQEbKFDJprpLVw/profile-displayphoto-shrink_200_200/0/1603358915023?e=1711584000&v=beta&t=qPKJLUE-v4zUvj7YvPXZJewfYaOuPuzCpA3UsgsZeKw" width=115><br><sub>Mayara Cardoso</sub>](https://www.linkedin.com/in/mayara-cardoso-556a45162/) |  [<img src="https://media.licdn.com/dms/image/D4D03AQHKwgj0RSzbbw/profile-displayphoto-shrink_200_200/0/1677677039354?e=1711584000&v=beta&t=SFXuTYAE32Y59y7j-7eyhcyyT_6IPRj575h33aid-WI" width=115><br><sub>Guilherme Lima</sub>](https://github.com/jacqueline-oliveira) |  [<img src="https://media.licdn.com/dms/image/C4D03AQFtVdv1x0j1WQ/profile-displayphoto-shrink_200_200/0/1658950457340?e=1711584000&v=beta&t=VI-LtH-0xO0Ylkjr6csWRdvGRQKuDKJ0H7vqgdxe0A0" width=115><br><sub>Fernanda Degolin</sub>](https://www.linkedin.com/in/fernandadegolin/) |
 | :---: | :---: | :---: |
 
