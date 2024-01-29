@@ -2,17 +2,18 @@
 
 .main-container {
     max-width: 80vw;
-    height: 100vh;
+    height: 95vh;
     margin-left: 325px;
     margin-right: 56px;
 }
 
 .header__navigation {
     display: flex;
+    width: 60rem;
     justify-content: space-between;
     align-items: center;
     padding: 16px;
-    margin: 20px;
+    margin: 12px;
     border-radius: 8px;
     background-color: #121212;
 }
@@ -77,7 +78,7 @@
 }
 
 .header__login .subscribe {
-    color: #a7a7a7;
+    color: #ffffff;
     font-size: 16px;
     font-weight: 700;
     background-color: transparent;
@@ -118,8 +119,9 @@
 
 .playlist-container {
     height: 68vh;
-    padding-top: 16px;
-    margin: 20px;
+    width: 62rem;
+    padding-top: 4px;
+    margin: 12px;
     border-radius: 10px;
     background-color: #121212;
 }
@@ -137,7 +139,7 @@
 
 .playlist .session {
     color: var(--text-base-light);
-    font-size: 24px;
+    font-size: 22px;
     font-weight: 700;
 }
 
@@ -150,19 +152,19 @@
 }
 
 .offer__scroll-container::-webkit-scrollbar {
-    width: 1px;
+    width: 0;
 }
 
-.offer__scroll-container::-webkit-scrollbar-thumb {
+/* .offer__scroll-container::-webkit-scrollbar-thumb {
     background-color: transparent;
-}
+} */
 
 /* FIM SCROLL */
 
 .offer__list-item {
     display: grid;
     justify-items: center;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-gap: 16px;
     gap: 16px;
     margin-bottom: 16px;
@@ -197,7 +199,7 @@
     Remove do fluxo normal: O elemento é removido do fluxo normal do documento, o que significa que outros elementos agem como se o elemento não estivesse presente. */
 
     color: var(--text-base-light);
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 700;
 }
 
@@ -279,7 +281,7 @@
 .artist {
     --column-count: 5;
     --grid-gap: 24px;
-    --min-container-width: 372px;
+    --min-container-width: 100px;
 }
 
 .hidden {
